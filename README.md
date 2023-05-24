@@ -1,4 +1,4 @@
 # An33T
 Arduino Nano 33 BLE || BLE Sense Tracker
 
-Track or monitor all built-in sensors using this app. 
+Monitor all built-in sensors using this app. 
